@@ -26,3 +26,13 @@
 *.exe
 *.out
 *.app
+
+Fields
+Grobner
+Monomial
+MonomialOrder
+Polynomial
+Rings
+VarNames
+main
+test
